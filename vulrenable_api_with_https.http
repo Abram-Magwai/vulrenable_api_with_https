@@ -1,0 +1,6 @@
+@vulrenable_api_with_https_HostAddress = http://localhost:5137
+
+GET {{vulrenable_api_with_https_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
